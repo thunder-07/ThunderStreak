@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "user_name": "thunder-007",
+      "repo_name": "playGround",
+      "access_token": "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",
+      "file_name": "test.txt",
+      "commit_message": "This is a test commit",
+      "file_content": "This is a test file"
+    }
+  ]
+}
